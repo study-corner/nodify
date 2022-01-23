@@ -15,3 +15,5 @@ cd apollo-graphql/server
 npm install
 node server.js
 ```
+
+GraphQL sandbox: https://studio.apollographql.com/sandbox/explorer
